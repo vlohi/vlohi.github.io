@@ -1,2 +1,2 @@
 # vlohi.github.io
-LohiPro
+Lohipron tuleva kotisivu
