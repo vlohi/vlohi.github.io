@@ -40,7 +40,7 @@ export function Hero() {
           {/* Text Content */}
           <div className="text-center md:text-left">
             {/* Small tagline */}
-            <p className="font-body text-sm uppercase tracking-[0.2em] text-accent mb-4">Tmi</p>
+            <p className="font-body text-sm uppercase tracking-[0.2em] text-accent mb-4">Lohipro</p>
 
             {/* Main heading */}
             <h1 className="font-display text-4xl md:text-6xl font-semibold text-foreground leading-[1.1] mb-6">
