@@ -1,4 +1,6 @@
 import { Target, Users, Lightbulb, TrendingUp } from "lucide-react";
+import { useState } from "react";
+import { services } from "@/data/services";
 
 const services = [
   {
@@ -24,6 +26,7 @@ const services = [
 ];
 
 export function About() {
+  const [openId, setOpenId] = useState<string | null>(null);
   return (
     <section className="py-24 px-6 bg-card">
       <div className="max-w-6xl mx-auto">
@@ -39,20 +42,47 @@ export function About() {
 
         {/* Services grid */}
         <div className="grid md:grid-cols-2 gap-8">
-          {services.map((service, index) => (
-            <div
-              key={service.title}
-              className="group p-8 bg-background rounded-2xl border border-border/50 hover:border-accent/30 hover:shadow-soft transition-all duration-300"
-              style={{ animationDelay: `${index * 100}ms` }}
-            >
-              <div className="w-14 h-14 bg-accent/10 rounded-xl flex items-center justify-center mb-6 group-hover:bg-accent/20 transition-colors duration-300">
-                <service.icon className="w-7 h-7 text-accent" />
+          {services.map((service, index) => {
+            const isOpen = openId === service.id;
+        
+            return (
+              <div
+                key={service.id}
+                onClick={() => setOpenId(isOpen ? null : service.id)}
+                className={`
+                  group p-8 bg-background rounded-2xl border
+                  cursor-pointer transition-all duration-300
+                  ${isOpen ? "border-accent/40 shadow-soft" : "border-border/50 hover:border-accent/30"}
+                `}
+                style={{ animationDelay: `${index * 100}ms` }}
+              >
+                <div className="w-14 h-14 bg-accent/10 rounded-xl flex items-center justify-center mb-6 group-hover:bg-accent/20 transition-colors duration-300">
+                  <service.icon className="w-7 h-7 text-accent" />
+                </div>
+        
+                <h3 className="font-display text-xl font-semibold text-foreground mb-3 flex items-center justify-between">
+                  {service.title}
+                  <span className="text-accent text-sm">
+                    {isOpen ? "▲" : "▼"}
+                  </span>
+                </h3>
+        
+                <p className="font-body text-muted-foreground leading-relaxed">
+                  {service.short}
+                </p>
+        
+                {isOpen && (
+                  <div className="mt-4 pt-4 border-t border-border/50">
+                    <p className="font-body text-foreground leading-relaxed">
+                      {service.long}
+                    </p>
+                  </div>
+                )}
               </div>
-              <h3 className="font-display text-xl font-semibold text-foreground mb-3">{service.title}</h3>
-              <p className="font-body text-muted-foreground leading-relaxed">{service.description}</p>
-            </div>
-          ))}
+            );
+          })}
         </div>
+
       </div>
     </section>
   );
