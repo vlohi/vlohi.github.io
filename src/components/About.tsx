@@ -2,7 +2,7 @@ import { Target, Users, Lightbulb, TrendingUp } from "lucide-react";
 import { useState } from "react";
 import { services } from "@/data/services";
 
-const services = [
+{/* const services = [
   {
     icon: Users,
     title: "Prosessien kehitys",
@@ -23,7 +23,7 @@ const services = [
     title: "Muutosten jalkauttaminen",
     description: "Sillä on merkitystä, miten asia viedään käytäntöön.",
   },
-];
+]; */}
 
 export function About() {
   const [openId, setOpenId] = useState<string | null>(null);
