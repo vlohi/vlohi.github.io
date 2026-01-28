@@ -41,7 +41,7 @@ export function About() {
         </div>
 
         {/* Services grid */}
-        <div className="grid md:grid-cols-2 gap-8">
+        <div className="grid md:grid-cols-2 gap-8 items-start">
           {services.map((service, index) => {
             const isOpen = openId === service.id;
         
@@ -73,7 +73,7 @@ export function About() {
         
                 {isOpen && (
                   <div className="mt-4 pt-4 border-t border-border/50">
-                    <p className="font-body text-foreground leading-relaxed">
+                    <p className="font-body text-foreground leading-relaxed whitespace-pre-line">
                       {service.long}
                     </p>
                   </div>
