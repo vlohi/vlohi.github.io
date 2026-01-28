@@ -1,6 +1,9 @@
+import { Target, Users, Lightbulb, TrendingUp } from "lucide-react";
+
 export const services = [
   {
-    id: "prosessit",
+    id: "process-dev",
+    icon: Users,
     title: "Prosessien kehitys",
     short: "Sujuva toiminta on sekä tehokasta että laadukasta.",
     long: `
@@ -10,7 +13,8 @@ Yleinen kokemukseni on, että kun laatua parannetaan prosesseja kehittämällä,
     `,
   },
     {
-    id: "laatu",
+    id: "quality",
+    icon: Target,
     title: "Laadun parantaminen",
     short: "Laatu syntyy toimivista prosesseista.",
     long: `
@@ -19,7 +23,8 @@ Testaus ei silti itsessään paranna laatua. Se vain kertoo nykytilanteen. Laatu
     `,
   },
     {
-    id: "prosessikuvaus",
+    id: "process-desc",
+    icon: Lightbulb,
     title: "Prosessien kuvaus",
     short: "Avaa silmiä niin vanhoille kuin uusille työntekijöille.",
     long: `
@@ -32,7 +37,8 @@ Voin perehtyä prosesseihinne ja tehdä tarvittavat prosessikaaviot ja kuvaukset
     `,
   },
     {
-    id: "jalkautus",
+    id: "change",
+    icon: TrendingUp,
     title: "Muutosten jalkauttaminen",
     short: "Sillä on merkitystä, miten asia viedään käytäntöön.",
     long: `
