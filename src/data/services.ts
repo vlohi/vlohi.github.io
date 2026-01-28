@@ -9,9 +9,9 @@ export const services = [
     long: `
 Kun prosessit ja niiden eri vaiheet toimivat saumattomasti yhteen, on toiminta sujuvaa ja tehokasta. Virheitä syntyy vähemmän ja työnteko on vähemmän turhauttavaa, suorastaan mielekästä.
 
-Tein diplomityöni prosessien kehittämisestä ja laadusta vuosina 2005-2006. Se yhdisti molemmat suuntautumisalani opinnoissani: tuotantotalouden sekä automaation tietotekniikan. Sillä tiellä jatkan edelleen.
-
 Yleinen kokemukseni on, että kun laatua parannetaan prosesseja kehittämällä, paranee laadun kanssa käsi kädessä myös tuottavuus ja työntekijöiden tyytyväisyys. Tätä laadukasta tehokkuutta tuon mielelläni teillekin.
+
+Tein diplomityöni prosessien kehittämisestä ja laadusta vuosina 2005-2006. Se yhdisti molemmat suuntautumisalani opinnoissani: tuotantotalouden sekä automaation tietotekniikan. Sillä tiellä jatkan edelleen.
     `,
   },
     {
