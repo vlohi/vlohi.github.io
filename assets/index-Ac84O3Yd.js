@@ -147,7 +147,7 @@ Yleinen kokemukseni on, että kun laatua parannetaan prosesseja kehittämällä,
 
 Tein diplomityöni prosessien kehittämisestä ja laadusta vuosina 2005-2006. Se yhdisti molemmat suuntautumisalani opinnoissani: tuotantotalouden sekä automaation tietotekniikan. Tuntui hyvältä, kun pystyin auttamaan toisia pysyvästi parempiin tuloksiin. Sillä tiellä jatkan edelleen.
     `},{id:"quality",icon:e1,title:"Laadun parantaminen",short:"Laatu syntyy toimivista prosesseista.",long:`
-Laadukasta tulosta syntyy, kun prosessin kaikki vaiheet ja osa-alueet toimivat saumattomasti yhteen. Vahvan testauspuolen kokemukseni avulla autan teitä testaamaan optimaalisesti. Riittävän hyvin, jotta tiedetään, onko tuote riittävän hyvä. Kuitenkin niin, että testauskustannukset eivät karkaa pilviin.
+Laadukasta tulosta syntyy, kun prosessin kaikki vaiheet ja osa-alueet toimivat saumattomasti yhteen. Vahvan testauspuolen kokemukseni avulla autan teitä testaamaan optimaalisesti. Riittävän hyvin, jotta tiedetään, onko tuote riittävän hyvä. Ja jotta löydetään tärkeimmät parannuskohteet. Kuitenkin niin, että testauskustannukset eivät karkaa pilviin.
 
 Testaus ei silti itsessään paranna laatua. Se vain kertoo nykytilanteen. Laatu syntyy paitsi vikoja korjaamalla, niin vielä tehokkaammin sillä, että vältetään niiden vikojen tuottamista paremmalla kehitys- tai tuotantoprosessilla. Siksi laatua parannettaessa käsitellään aina koko prosessia, ei pelkkää testausvaihetta.
     `},{id:"process-desc",icon:Y0,title:"Prosessien kuvaus",short:"Avaa silmiä niin vanhoille kuin uusille työntekijöille.",long:`
