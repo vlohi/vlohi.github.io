@@ -20,7 +20,7 @@ Tein diplomityöni prosessien kehittämisestä ja laadusta vuosina 2005-2006. Se
     title: "Laadun parantaminen",
     short: "Laatu syntyy toimivista prosesseista.",
     long: `
-Laadukasta tulosta syntyy, kun prosessin kaikki vaiheet ja osa-alueet toimivat saumattomasti yhteen. Vahvan testauspuolen kokemukseni avulla autan teitä testaamaan optimaalisesti. Riittävän hyvin, jotta tiedetään, onko tuote riittävän hyvä. Kuitenkin niin, että testauskustannukset eivät karkaa pilviin.
+Laadukasta tulosta syntyy, kun prosessin kaikki vaiheet ja osa-alueet toimivat saumattomasti yhteen. Vahvan testauspuolen kokemukseni avulla autan teitä testaamaan optimaalisesti. Riittävän hyvin, jotta tiedetään, onko tuote riittävän hyvä. Ja jotta löydetään tärkeimmät parannuskohteet. Kuitenkin niin, että testauskustannukset eivät karkaa pilviin.
 
 Testaus ei silti itsessään paranna laatua. Se vain kertoo nykytilanteen. Laatu syntyy paitsi vikoja korjaamalla, niin vielä tehokkaammin sillä, että vältetään niiden vikojen tuottamista paremmalla kehitys- tai tuotantoprosessilla. Siksi laatua parannettaessa käsitellään aina koko prosessia, ei pelkkää testausvaihetta.
     `,
