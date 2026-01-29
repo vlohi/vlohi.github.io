@@ -145,7 +145,7 @@ Kun prosessit ja niiden eri vaiheet toimivat saumattomasti yhteen, on toiminta s
 
 Yleinen kokemukseni on, että kun laatua parannetaan prosesseja kehittämällä, paranee laadun kanssa käsi kädessä myös tuottavuus ja työntekijöiden tyytyväisyys. Tätä laadukasta tehokkuutta tuon mielelläni teillekin.
 
-Tein diplomityöni prosessien kehittämisestä ja laadusta vuosina 2005-2006. Se yhdisti molemmat suuntautumisalani opinnoissani: tuotantotalouden sekä automaation tietotekniikan. Sillä tiellä jatkan edelleen.
+Tein diplomityöni prosessien kehittämisestä ja laadusta vuosina 2005-2006. Se yhdisti molemmat suuntautumisalani opinnoissani: tuotantotalouden sekä automaation tietotekniikan. Tuntui hyvältä, kun pystyin auttamaan toisia pysyvästi parempiin tuloksiin. Sillä tiellä jatkan edelleen.
     `},{id:"quality",icon:e1,title:"Laadun parantaminen",short:"Laatu syntyy toimivista prosesseista.",long:`
 Laadukasta tulosta syntyy, kun prosessin kaikki vaiheet ja osa-alueet toimivat saumattomasti yhteen. Vahvan testauspuolen kokemukseni avulla autan teitä testaamaan optimaalisesti. Riittävän hyvin, jotta tiedetään, onko tuote riittävän hyvä. Kuitenkin niin, että testauskustannukset eivät karkaa pilviin.
 
