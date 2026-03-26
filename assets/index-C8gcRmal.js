@@ -146,6 +146,8 @@ Kun prosessit ja niiden eri vaiheet toimivat saumattomasti yhteen, on toiminta s
 Yleinen kokemukseni on, että kun laatua parannetaan prosesseja kehittämällä, paranee laadun kanssa käsi kädessä myös tuottavuus ja työntekijöiden tyytyväisyys. Tätä laadukasta tehokkuutta tuon mielelläni teillekin.
 
 Tein diplomityöni prosessien kehittämisestä ja laadusta vuosina 2005-2006. Se yhdisti molemmat suuntautumisalani opinnoissani: tuotantotalouden sekä automaation tietotekniikan. Tuntui hyvältä, kun pystyin auttamaan toisia pysyvästi parempiin tuloksiin. Sillä tiellä jatkan edelleen.
+
+Eniten kokemusta minulla on ohjelmistokehityksen prosesseista ja toimintatavoista (Lean, Agile, Scrum, Kanban yms.), mutta olen kehittänyt prosesseja myös mm. varainhoitoyhtiössä ja investointipankissa. Teen myös säännöllisesti tehdasvierailuja eri toimialoille nähdäkseni, miten prosesseja eri aloilla hoidetaan.
     `},{id:"quality",icon:e1,title:"Laadun parantaminen",short:"Laatu syntyy toimivista prosesseista.",long:`
 Laadukasta tulosta syntyy, kun prosessin kaikki vaiheet ja osa-alueet toimivat saumattomasti yhteen. Vahvan testauspuolen kokemukseni avulla autan teitä testaamaan optimaalisesti. Riittävän hyvin, jotta tiedetään, onko tuote riittävän hyvä. Ja jotta löydetään tärkeimmät parannuskohteet. Kuitenkin niin, että testauskustannukset eivät karkaa pilviin.
 
@@ -155,7 +157,7 @@ Selkeä prosessikaavio ja sen sanallinen kuvaus ovat erinomainen lähtökohta to
 
 a)	Tilannekuva yhtenäiseksi. On hyvin yleistä, että samassakin organisaatiossa eri henkilöillä on erilainen käsitys siitä, miten kokonaisuus toimii. Prosessikaavio ja -kuvaus selkeyttävät tilannetta ja antavat saman käsityksen kaikille. Toisinaan tässä vaiheessa tulee esille, että tiimissä on erilaisia tapoja toimia tietyissä tilanteissa. Tällöin on hyvä tilaisuus keskustella, pitäisikö kaikkien toimia samalla tavalla, vai onko prosessiin hyvä jättää tilaa vaihtoehtoisille tavoille.
 
-b)	Turhat välivaiheet näkyviksi. Usein prosessikuvausta tehdessä huomataan, että prosessissa on vaiheita, jotka eivät tuota mitään lisäarvoa, tai jotka pystyttäisiin tekemään paremmin tai vähemmällä vaivalla jossain toisessa vaiheessa.
+b)	Turhat välivaiheet näkyviksi. Usein prosessikuvausta tehdessä huomataan, että prosessissa on vaiheita, jotka eivät tuota mitään lisäarvoa, tai jotka voisi antaa tekoälyn tai perinteisen automaation hoidettavaksi.
 
 c)	Hyvä pohja kehittämiselle. Prosessimuutoksia on helpompi suunnitella ja viestiä prosessikaavion kanssa kuin ilman sellaista.
 
