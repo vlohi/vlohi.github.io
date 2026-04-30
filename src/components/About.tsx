@@ -36,7 +36,7 @@ export function About() {
           <h2 className="font-display text-3xl md:text-5xl font-semibold text-foreground mb-6">Kuinka voin auttaa?</h2>
           <p className="font-body text-lg text-muted-foreground max-w-2xl mx-auto">
             Kehitän toimintaanne vahvalla kokemuksella. Kun toimintoja sujuvoitetaan, niin laatu, tehokkuus ja
-            työtyytyväisyys kehittyvät käsi kädessä.
+            työtyytyväisyys kehittyvät käsi kädessä. Myös tekoälyn täysi hyödyntäminen vaatii sen, että prosessit ovat kunnossa.
           </p>
         </div>
 
